@@ -51,4 +51,6 @@ Conflicting official information may require human confirmation.
 Order-related responses depend on the available order lookup tool and data.
 Demo
 
-Watch the Agent Demo-demo.mp4
+## Demo
+
+[Watch the Agent Demo](demo.mp4)
